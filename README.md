@@ -4,6 +4,7 @@
 
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) Vistor
   
+<br/>
 
 ## I'm   
 
@@ -21,14 +22,20 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) Visto
 - 📫 How to reach me: chengzijie22@mails.ucas.ac.cn
 
 - 🤔 You may like My [Blog](https://www.zhihu.com/people/kingsley-cheng-66)
+
  
 <br/>  
 
 ## About My Github
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsley-Cheng)](https://github.com/Christmas/github-readme-stats)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingsley-Cheng&show_icons=true&theme=tokyonight)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingsley-Cheng&show_icons=true&theme=tokyonight) 
+ 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
