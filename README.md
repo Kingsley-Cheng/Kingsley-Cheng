@@ -8,15 +8,15 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) Visto
 
 ## I'm    
  
-- 🔭 I’m currently studying in UCAS   
+- 🔭 I’m currently working in ICBC   
   
-- 🌱 I’m currently learning Computer Science and Mathematics  
+- 🌱 I’m currently learning Data Analyzing and Sofware Developing 
 
 - 😄 I love: reading, travelling, photography 
   
 - ❓ Ask me about anything related to My Projects and Deep Learning  
   
-- 📫 How to reach me: chengzijie@amss.ac.cn
+- 📫 How to reach me: chengzijie2021@outlook.com
 
 - 🤔 You may like My [Blog](https://www.zhihu.com/people/kingsley-cheng-66)
 
