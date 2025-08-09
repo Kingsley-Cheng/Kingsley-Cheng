@@ -15,9 +15,6 @@
 - 📫 How to reach me: chengzijie2021@outlook.com
 
 - 🤔 You may like My [Blog](https://www.zhihu.com/people/kingsley-cheng-66)
-
-
-![Metrics](https://metrics.lecoq.io/Kingsley-Cheng?template=classic&reactions=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai)
  
 <br/>  
 
@@ -76,6 +73,8 @@
 ### Github Streak
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingsley-Cheng" /> </div>
 
+### Github Commit HeatMap
+<img src="https://ghchart.rshah.org/Kingsley-Cheng" alt="Kingsley-Cheng's Github chart" />
 ------
 <div align="center">
             <a href="https://www.buymeacoffee.com/Kingsley-Cheng" target="_blank" style="display: inline-block;">
